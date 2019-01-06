@@ -3,7 +3,7 @@ This is for encoding test.
 
 
 # UTF-8 
-### 한글 2 Byte, 영어 1 Byte, EOF 3 Byte 
+### 한글 3 Byte, 영어 1 Byte, EOF 3 Byte 
 - 1한글 : 6 Byte  
 - 2한글 : 9 Byte  
 - 2한글 + 1영어 : 10 Byte  
